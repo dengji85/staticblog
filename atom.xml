@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-03-17T03:16:35.987Z</updated>
+  <updated>2018-03-17T03:32:42.892Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2018/03/02/my-first-blog/"/>
     <id>http://yoursite.com/2018/03/02/my-first-blog/</id>
     <published>2018-03-02T17:04:00.000Z</published>
-    <updated>2018-03-17T03:16:35.987Z</updated>
+    <updated>2018-03-17T03:32:42.892Z</updated>
     
-    <content type="html"><![CDATA[<p>ds<br>    附加一段文章摘要，字数最好在140字以内，会出现在meta的description里面<br> 附加一段文章摘要，字数最好在140字以内，会出现在meta的description里面<br> 附加一段文章摘要，字数最好在140字以内，会出现在meta的description里面<br> 附加一段文章摘要，字数最好在140字以内，会出现在meta的description里面</p><h1 id="Header"><a href="#Header" class="headerlink" title="Header"></a>Header</h1><a id="more"></a><p>menu:<br>  主页: /<br>  随笔: /tags/随笔/</p><p><more><br> <img></more></p>]]></content>
+    <content type="html"><![CDATA[<p>ds<br>    附加一段文章摘要，字数最好在140字以内，会出现在meta的description里面<br> 附加一段文章摘要，字数最好在140字以内，会出现在meta的description里面<br> 附加一段文章摘要，字数最好在140字以内，会出现在meta的description里面<br> 附加一段文章摘要，字数最好在140字以内，会出现在meta的description里面<br><img src="/image-url" class="full-image">post_asset_folder</p><h1 id="Header"><a href="#Header" class="headerlink" title="Header"></a>Header</h1><a id="more"></a><p>menu:<br>  主页: /<br>  随笔: /tags/随笔/</p><p><more><br> <img></more></p>]]></content>
     
     <summary type="html">
     
@@ -57,7 +57,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
